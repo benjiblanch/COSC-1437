@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Orion
+ *
+ */
+module MicrowaveControl {
+}
